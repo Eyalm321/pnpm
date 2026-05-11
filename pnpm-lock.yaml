@@ -5578,6 +5578,9 @@ importers:
       '@pnpm/config.parse-overrides':
         specifier: workspace:*
         version: link:../../config/parse-overrides
+      '@pnpm/config.version-policy':
+        specifier: workspace:*
+        version: link:../../config/version-policy
       '@pnpm/constants':
         specifier: workspace:*
         version: link:../../core/constants
